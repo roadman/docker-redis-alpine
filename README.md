@@ -6,6 +6,12 @@
 $ docker build -t roadman/redis:v1 .
 ```
 
+## setup
+
+```
+$ mkdir /data
+```
+
 ## run
 
 ```
